@@ -1,0 +1,28 @@
+td,
+th{
+    border: 2px solid black;
+    padding: 15px;
+    
+}
+tr{
+     padding: 10px;
+    
+}
+header{
+    text-align: center;
+}
+.modulos{
+    background-color: #88bee9;
+    padding: 10px;
+    margin: 11px 564px;
+    text-align: center;
+
+}
+.tabla{
+       border-collapse: collapse; 
+    padding: 20px 400px
+}
+
+.columna2{
+    text-align:center;   
+}
